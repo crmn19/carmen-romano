@@ -12,9 +12,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmen-romano&show_icons=true&locale=en&layout=compact" alt="carmen-romano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carmen-romano&" alt="carmen-romano" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmen-romano&show_icons=true&locale=en&layout=compact" alt="carmen-romano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carmen-romano&" alt="carmen-romano" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carmen-romano&label=Profile%20views&color=0e75b6&style=flat" alt="carmen-romano" /> </p>
 
